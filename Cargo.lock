@@ -718,7 +718,7 @@ dependencies = [
 [[package]]
 name = "exchange-rs"
 version = "0.1.0"
-source = "git+https://github.com/exchangers-mail/exchange-rs?branch=main#e083aee94b8fd2d6f0db4e2f7d19788c6f40e954"
+source = "git+https://github.com/exchangers-mail/exchange-rs?branch=main#c0910ecbc0ed94a4e5c6ff2f85b4e73606df4b50"
 dependencies = [
  "anyhow",
  "file-format",
@@ -1421,7 +1421,7 @@ checksum = "68f07b52f793a04b5427c9ca95445faa3f953d5155082199b2fc374f1da642c2"
 dependencies = [
  "async-fn-stream",
  "async-io 2.3.3",
- "base64 0.21.7",
+ "base64 0.22.1",
  "bitflags 2.5.0",
  "cfg-if",
  "chrono",
