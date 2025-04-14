@@ -28,7 +28,7 @@ default = []
 test-tool = []
 
 [dependencies]
-anyhow = { version = "1.0.97", default-features = false }
+anyhow = { version = "1.0.98", default-features = false }
 thiserror = "2.0.12"
 exchange-rs = { git = "https://github.com/exchangers-mail/exchange-rs", branch = "main" }
 
