@@ -721,7 +721,7 @@ dependencies = [
 [[package]]
 name = "exchange-rs"
 version = "0.1.0"
-source = "git+https://github.com/neeml/exchange-rs?branch=main#4fb1ab0c88c789e89db21c9a1c94bf0fcb206516"
+source = "git+https://github.com/neeml/exchange-rs?branch=main#7e774295f5b9813edc7d7b51324c26a69aa14980"
 dependencies = [
  "anyhow",
  "file-format",
@@ -759,9 +759,9 @@ checksum = "9fc0510504f03c51ada170672ac806f1f105a88aa97a5281117e1ddc3368e51a"
 
 [[package]]
 name = "file-format"
-version = "0.27.0"
+version = "0.28.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "0ff8badf6e72ff15e42c9ade15d01375837173b17d10c228ab41d821082619db"
+checksum = "0eab8aa2fba5f39f494000a22f44bf3c755b7d7f8ffad3f36c6d507893074159"
 
 [[package]]
 name = "filetime"
