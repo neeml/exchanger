@@ -30,7 +30,7 @@ test-tool = []
 
 [dependencies]
 anyhow = { version = "1.0.99", default-features = false }
-thiserror = "2.0.12"
+thiserror = "2.0.15"
 exchange-rs = { git = "https://github.com/neeml/exchange-rs", branch = "main" }
 
 [profile.dev]
