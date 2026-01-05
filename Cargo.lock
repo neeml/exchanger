@@ -697,7 +697,7 @@ dependencies = [
 [[package]]
 name = "exchange-rs"
 version = "0.1.0"
-source = "git+https://github.com/neeml/exchange-rs?branch=main#bc025a11604b4bae3a55c37e0fa2ce553f74c687"
+source = "git+https://github.com/neeml/exchange-rs?branch=main#348118b06860be3a7dc60bfc2b3d28793c7e1ade"
 dependencies = [
  "anyhow",
  "file-format",
