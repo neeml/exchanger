@@ -29,7 +29,7 @@ default = []
 test-tool = []
 
 [dependencies]
-anyhow = { version = "1.0.100", default-features = false }
+anyhow = { version = "1.0.101", default-features = false }
 thiserror = "2.0.18"
 exchange-rs = { git = "https://github.com/neeml/exchange-rs", branch = "main" }
 
