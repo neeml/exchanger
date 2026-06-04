@@ -689,7 +689,7 @@ dependencies = [
 [[package]]
 name = "exchange-rs"
 version = "0.1.0"
-source = "git+https://github.com/neeml/exchange-rs?branch=main#d2a2cb1b2cdc344d71017653bac2d18c4ed0c7fe"
+source = "git+https://github.com/neeml/exchange-rs?branch=main#9439755a1052cae3d8f1320f97b1f33f910843bd"
 dependencies = [
  "anyhow",
  "file-format",
@@ -2042,9 +2042,9 @@ dependencies = [
 
 [[package]]
 name = "serde_json"
-version = "1.0.149"
+version = "1.0.150"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "83fc039473c5595ace860d8c4fafa220ff474b3fc6bfdb4293327f1a37e94d86"
+checksum = "e8014e44b4736ed0538adeecded0fce2a272f22dc9578a7eb6b2d9993c74cfb9"
 dependencies = [
  "itoa",
  "memchr",
